@@ -762,6 +762,12 @@ gap: 24px;
     letter-spacing: 0.04em;
 }
 
+.visually-hidden:checked + .accept_text > .checkbox_fake{
+background-color: #404bbf;
+border: none;
+fill: #F4F4FD;
+}
+
 
 
 .checkbox_fake {
